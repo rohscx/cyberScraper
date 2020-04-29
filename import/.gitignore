@@ -102,8 +102,4 @@ dist
 
 # TernJS port file
 .tern-port
-
-# Custom
 securityConfiguration.js
-export/*[png,txt,js,json,csv]
-import/*[png,txt,js,json,csv]
